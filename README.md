@@ -136,26 +136,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Why working from home is both awesome and horrible](https://theoatmeal.com/comics/working_home)
 
 ## Job boards
-  1. [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board featuring verified remote-first positions across various tech and non-tech roles.
-  1. [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - A site for fully location independent jobs. All jobs on the site are 100% work from anywhere.
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
-  1. [4DayJob](https://4dayjob.com/) - 4-day work week and remote jobs. 1,500+ flexible positions.
   1. [AI Dev Jobs](https://aidevboard.com) - 8,400+ AI/ML engineering roles from 489 AI-first companies, updated daily. Filter by remote/hybrid/onsite, seniority, and salary. Public REST API + MCP server for agent-driven job search.
-  1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-  1. [Built In](https://builtin.com/jobs/remote)
-  1. [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
-  1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
-  1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
-  1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
-  1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
-  1. [CyberJobHunt.in](https://cyberjobhunt.in/) - Explore Cyber Security Jobs in top Companies and Startups. 
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role! - Requires premium membership to view and apply.
-  1. [devtooljobs](https//devtooljobs.com/) - GTM jobs in dev tooling companies. For remote jobs, just filter it in search and, for better results, choose the country you're located in.
-  1. [Diversify Tech](https://www.diversifytech.com/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
-  1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [hiring.lat](https://hiring.lat) — Transparent job postings for LATAM workers with remote or relocation opportunities.
-  1. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
   1. [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
   1. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
